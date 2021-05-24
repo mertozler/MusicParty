@@ -15,11 +15,11 @@ npm run dev
 Login page:
 ![Login Page](https://i.resmim.net/i/loginpage-1.png)
 Homepage:
-![Homepage](https://i.resmim.net/i/loginpage-1.png)
+![Homepage](https://i.resmim.net/i/homepage-2.png)
 Room page:
 ![Room Page](https://i.resmim.net/i/room.png)
 Create room page:
-![Create room page](https://i.resmim.net/i/loginpage-1.png)
+![Create room page](https://i.resmim.net/i/createroompage-2.png)
 
 
 ## Contributing
