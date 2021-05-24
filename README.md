@@ -1,2 +1,3 @@
-# MusicParty
-Web based programming project assignment. A website that allows you to listen to music and socialize on Spotify simultaneously.
+# Passwordless login with Firebase and React
+
+This repo is from a complete step-by-step tutorial by [Skillthrive](https://youtu.be/8Xnpipa2k2M).
