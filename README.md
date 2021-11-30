@@ -10,18 +10,6 @@ In order to use and develop the project, you need to enter the following command
 npm run dev
 ```
 
-## Project Images
-
-Login page:
-![Login Page](https://i.resmim.net/i/loginpage-1.png)
-Homepage:
-![Homepage](https://i.resmim.net/i/homepage-2.png)
-Room page:
-![Room Page](https://i.resmim.net/i/room.png)
-Create room page:
-![Create room page](https://i.resmim.net/i/createroompage-2.png)
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
